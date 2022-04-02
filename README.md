@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Alest as a intern [Alest on linkedin](https://www.linkedin.com/company/alest-consultoria/) and [Alest webSite](https://alest.com.br/)
 - 🖱️ I'm a Computer Science undergraduate student at São Paulo State University (UNESP) 
 - 📒 I'm member of my college's junior enterpise [Info Jr.](https://www.infojrunesp.com.br/)
-- 🌱 I’m currently learning Node.js and JS.
+- 🌱 I’m currently improving my skills with Node.js and JS.
 - 📎 I already worked with JS, CSS, HTML, TypeScript, React, Node.
 - 📫 Email: g-marques@outlook.com
 

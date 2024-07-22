@@ -2,7 +2,6 @@
 
 - 🔭 I’m currently working at Alest as a Software Developer [Alest on linkedin](https://www.linkedin.com/company/alest-consultoria/)
 - 🖱️ I'm a Computer Science undergraduate student at São Paulo State University (UNESP) 
-- 📒 I'm member of my college's junior enterpise [Info Jr.](https://www.infojrunesp.com.br/)
 - 🌱 I’m currently improving my skills with Node.js and JS.
 - 📎 I have worked with JS, CSS, HTML, TypeScript, React, Node.
 - 📫 Email: g-marques@outlook.com

@@ -1,9 +1,9 @@
 ### Hi there, I'm Guilherme Marques 👋
 
-- 🔭 I’m currently working at Vockan as a Software Developer [Vockan on linkedin](https://www.linkedin.com/company/vockan/posts/?feedView=all)
+- 🔭 I’m currently working at Opus Software as a Software Engineer
 - 🖱️ Bachelor of Computer Science, São Paulo State University (UNESP)
-- 🌱 I’m currently improving my skills with Node.js and JS.
-- 📎 I have worked with JS, CSS, HTML, TypeScript, React, Node and Java.
+- 🌱 I’m currently improving my skills with Java and Spring Boot.
+- 📎 I have worked with JS, TypeScript, React, Node and Java.
 - 📫 Email: g-marques@outlook.com
 
 <div align="center">
